@@ -1,0 +1,16 @@
+# Arquivos e diretórios gerados pelo Vite
+/dist/
+/.cache/
+
+# Dependências
+/node_modules/
+
+# Arquivos de build
+/build/
+
+# Arquivos de configuração
+/.env
+/.env.local
+/.env.*.local
+
+# Outros arquivos e diretórios que você deseja ignorar
